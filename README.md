@@ -1,16 +1,1 @@
-
-Hello world! [Earth](https://user-images.githubusercontent.com/24758741/165649361-80e268a9-1a27-4cdf-bfb2-aba2a49e6e27.gif)
-
-
-
-
-
-
-
-
-
-## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
-<br/>
-  <br/>
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
