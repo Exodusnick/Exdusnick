@@ -6,3 +6,11 @@
 	- Some Java
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+- **Web Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- MonogoDB
+  - Express
+  - NodeJS  
+- **Shell Scripting**
