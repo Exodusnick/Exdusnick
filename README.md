@@ -31,7 +31,7 @@
 </div>
 <p align="center">
  <a href="https://forum.los-legacy.de/contact//Los-legacy/" target="blank">
-   <img align="center" alt=" Los-legacy" width="30px" src="https://forum.los-legacy.de/user/2-exodusnick/" /> &nbsp; &nbsp;
+   <img align="center" alt=" Los-legacy" width="30px" src="https://forum.los-legacy.de/> &nbsp; &nbsp;
  </a> 
   <br/>
   <br/>
