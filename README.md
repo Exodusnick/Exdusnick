@@ -31,10 +31,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exodusnick&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p> 
-
-<img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-</p>  
+ 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Exodusnick/Exdusnick/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
