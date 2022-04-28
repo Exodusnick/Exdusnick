@@ -11,15 +11,6 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
-
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
