@@ -36,7 +36,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Exodusnick/Exdusnick/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://forum.los-legacy.de/Los-legacy/pramod-kumar-4aa47616b/" target="blank">
+ <a href="https://forum.los-legacy.de/Los-legacy/" target="blank">
    <img align="center" alt="Pramod's Los-legacy" width="30px" src="https://forum.los-legacy.de/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp; 
  </a> 
   <br/>
