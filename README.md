@@ -30,10 +30,17 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exodusnick&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
 </p>  
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Exodusnick/Exdusnick/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://forum.los-legacy.de//in/pramod-kumar-4aa47616b/" target="blank">
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
+</p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
