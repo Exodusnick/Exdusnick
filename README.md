@@ -30,6 +30,8 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exodusnick&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p> 
+
 <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>  
