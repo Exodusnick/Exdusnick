@@ -11,13 +11,7 @@
   
   
   
-  
-  
-  
-  
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
-
 
 
 
@@ -36,7 +30,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Exodusnick/Exdusnick/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://forum.los-legacy.de/contact//Los-legacy/" target="blank">
+ <a href="https://forum.los-legacy.de/contact//Los-legacy/"
    <img align="center" alt=" Los-legacy" width="30px" src="https://forum.los-legacy.de/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp; 
  </a> 
   <br/>
