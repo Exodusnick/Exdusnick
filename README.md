@@ -37,6 +37,7 @@
 </div>
 <p align="center">
  <a href="https://forum.los-legacy.de//in/pramod-kumar-4aa47616b/" target="blank">
+   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp; 
  </a> 
   <br/>
   <br/>
